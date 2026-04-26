@@ -1,4 +1,4 @@
-MSc Computer Science at **TU Delft** — graduating July 2026
+MSc Computer Science at **TU Delft**
 
 ## What I work on
 
