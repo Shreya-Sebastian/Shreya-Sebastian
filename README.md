@@ -1,6 +1,6 @@
 # Shreya Sebastian
 
-MSc Computer Science at **TU Delft** — graduating July 2026, currently at the Socially Perceptive Computing Lab.
+MSc Computer Science at **TU Delft** — graduating July 2026
 
 ## What I work on
 
