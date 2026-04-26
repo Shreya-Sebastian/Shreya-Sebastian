@@ -1,5 +1,3 @@
-# Shreya Sebastian
-
 MSc Computer Science at **TU Delft** — graduating July 2026
 
 ## What I work on
