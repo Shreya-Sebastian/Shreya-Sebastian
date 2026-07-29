@@ -5,7 +5,5 @@ MSc Computer Science at **TU Delft**
 My MSc thesis is a multimodal behavioral-sensing project: a pipeline that fuses ultra-wideband spatial tracking with LENA child-worn audio in an inclusive preschool, recovers latent activity contexts via unsupervised clustering, and runs mixed-effects inference on context-specific differences between children with hearing loss and typically hearing peers. 
 Earlier work spans 3D CNNs on biological imagery, a paper-reproduction project on deep-learning underwater image enhancement, and a fault-tolerant systems-engineering proof-of-concept for example.
 
-## Reach me
-
 - Email: [shreyaseb@gmail.com](mailto:shreyaseb@gmail.com)
 - LinkedIn: [linkedin.com/in/shreya-sebastian](https://www.linkedin.com/in/shreya-sebastian)
