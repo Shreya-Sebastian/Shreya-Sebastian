@@ -15,7 +15,10 @@ Event-gated, retroactive consolidation for neural networks, inspired by synaptic
 **[MSc thesis](https://github.com/Shreya-Sebastian/Activity_Contexts_Clustering)**
 Fuses ultra-wideband positioning with LENA audio recorded in an inclusive preschool, recovers activity contexts with unsupervised clustering, and uses mixed-effects models to compare children with and without hearing loss within each context.
 
-**Earlier work:** 3D CNNs for pollen classification (BSc thesis), a reproduction of an underwater image enhancement paper, and a fault-tolerant sensor data ingestion pipeline on RabbitMQ.
+**[BSc thesis](https://github.com/Shreya-Sebastian/3D_ConvNN_Pollen_Classification)**
+Compares 3D CNNs on raw pollen Z-stacks with 2D projections of the same data, using a custom ConvNet3D and a ResNet3D in PyTorch on variable-size stacks.
+
+**Earlier work:** a [reproduction of an underwater image enhancement paper](https://github.com/Shreya-Sebastian/Deep_Learning_Reproduction_Project) and a [fault-tolerant sensor data ingestion pipeline](https://github.com/Shreya-Sebastian/Software_Architecture_PoC) on RabbitMQ.
 
 ## Contact
 
