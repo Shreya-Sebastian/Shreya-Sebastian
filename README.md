@@ -16,7 +16,7 @@ Event-gated, retroactive consolidation for neural networks, inspired by synaptic
 Fuses ultra-wideband positioning with LENA audio recorded in an inclusive preschool, recovers activity contexts with unsupervised clustering, and uses mixed-effects models to compare children with and without hearing loss within each context.
 
 **[BSc thesis](https://github.com/Shreya-Sebastian/3D_ConvNN_Pollen_Classification)**
-Compares 3D CNNs on raw pollen Z-stacks with 2D projections of the same data, using a custom ConvNet3D and a ResNet3D in PyTorch on variable-size stacks.
+Classifies Urticaceae pollen from whole microscope Z-stacks with 3D CNNs (a custom ConvNet3D and a ResNet3D in PyTorch), comparing whole stacks with subsections; the best model reached 95% test accuracy.
 
 **Earlier work:** a [reproduction of an underwater image enhancement paper](https://github.com/Shreya-Sebastian/Deep_Learning_Reproduction_Project) and a [fault-tolerant sensor data ingestion pipeline](https://github.com/Shreya-Sebastian/Software_Architecture_PoC) on RabbitMQ.
 
