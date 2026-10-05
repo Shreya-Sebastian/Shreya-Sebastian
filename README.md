@@ -4,7 +4,7 @@ ML and data engineer based in the Netherlands. MSc Computer Science (Artificial 
 
 ## Highlighted projects
 
-**[Tech Jobs Radar](https://github.com/Shreya-Sebastian/JobRadarNL)** ([techjobsradar.nl](https://techjobsradar.nl))
+**[Tech Jobs Radar](https://techjobsradar.nl)** (live at techjobsradar.nl, source private)
 A live job board for the Dutch tech market. It crawls employer career sites, classifies tech roles and extracts structured fields from each posting, with every change to the extraction rules gated by a golden evaluation set in CI. FastAPI, Postgres, Redis workers, Kubernetes on AWS, Terraform.
 
 **[RetroSTC-Net](https://github.com/Shreya-Sebastian/RetroSTC-Net)**
